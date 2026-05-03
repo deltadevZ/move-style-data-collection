@@ -1,0 +1,13 @@
+# Sui ecosystem repositories with Move source code.
+# One URL per line. Lines starting with '#' are ignored.
+# This is the list used to produce the original 368-sample dataset.
+# Edit, extend, or replace as needed.
+
+https://github.com/MystenLabs/sui
+https://github.com/circlefin/stablecoin-sui
+https://github.com/scallop-io/sui-lending-protocol
+https://github.com/bluefin-exchange/bluefin-v2-spot-contract
+https://github.com/wormhole-foundation/wormhole
+
+# A more complete list of Sui ecosystem repos is maintained at
+# https://github.com/electric-capital/crypto-ecosystems under the Sui taxonomy.
